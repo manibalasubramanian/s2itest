@@ -1,0 +1,4 @@
+gunicorn
+cx_Oracle
+pandas
+numpy
